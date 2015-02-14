@@ -1,22 +1,22 @@
 <h1>Clara Gluten Free Every-day Bread </h1>
-<h2>This is the bread I make, well, every day. Great for breadmaker and by hand </h2>
+Great for breadmaker or by hand. Makes 1 loaf.
 
 **Ingredients**
 
 *Yeast Starter*
--[] 2/3 cp golden flaxseed
--[] 1/4 cp brown sugar
--[] 1 tbs yeast
--[] 1 3/4 cp warm water
+-[ ] 2/3 cp golden flaxseed
+-[ ] 1/4 cp brown sugar
+-[ ] 1 tbs yeast
+-[ ] 1 3/4 cp warm water
 
--[] 1 egg
+-[ ] 1 egg
 
 *Flour Mix (bread-in-a-jar)*
--[] 1 tsp baking powder
--[] 1 1/2 tsp salt
--[] 1 tbs xanthum gum
--[] 2 cp brown rice flour
--[] 1 1/4 cp tapioca flour
+-[ ] 1 tsp baking powder
+-[ ] 1 1/2 tsp salt
+-[ ] 1 tbs xanthum gum
+-[ ] 2 cp brown rice flour
+-[ ] 1 1/4 cp tapioca flour
 
 
 1. Mix up the flour mix and store in a quart-size mason jar
