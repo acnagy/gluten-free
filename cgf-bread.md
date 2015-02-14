@@ -16,7 +16,6 @@ Great for breadmaker or by hand. Makes 1 loaf.
 - [ ] 1 tbs xanthum gum
 - [ ] 2 cp brown rice flour
 - [ ] 1 1/4 cp tapioca flour
-
 1. Mix up the flour mix and store in a quart-size mason jar
 2. Combine the yeast starter in your bowl/bread maker pan. Do not include the egg. Let yeast mixture sit 20 min - 1 hour. 
 3. Add egg and flour mix.
