@@ -3,18 +3,18 @@ Super fudgy, adapted from adapted via [Lori Lange's Cocoa Brownies](http://www.r
 
 **Ingredients**
 
-1 cup / 2 sticks butter
+- [ ] 1 cup / 2 sticks butter
 
-17.5 oz / 2 1/2 cups sugar
-6 oz / 1.5 cups cocoa
+- [ ] 17.5 oz / 2 1/2 cups sugar
+- [ ] 6 oz / 1.5 cups cocoa
 
-1 1/2 tbs vanilla
-3 very large eggs
+- [ ] 1 1/2 tbs vanilla
+- [ ] 3 very large eggs
 
-2/3 + 2 tbs cups flour (mix of brown/tapica)
-2 1/2 tbs xanthum gum
-1/2 tsp sald
-1 tsp baking powder
+- [ ] 2/3 + 2 tbs cups flour (mix of brown/tapica)
+- [ ] 2 1/2 tbs xanthum gum
+- [ ] 1/2 tsp sald
+- [ ] 1 tsp baking powder
 
 **Directions**
 1. Preheat oven to 350 F. Prepare one 9 x 13 pan with butter and sugar.
