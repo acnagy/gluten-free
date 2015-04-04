@@ -4,8 +4,8 @@ Great for breadmaker or by hand. Makes 1 loaf.
 **Ingredients**
 
 *Yeast Starter*
-- [ ] 2/3 cp golden flaxseed
-- [ ] 1/4 cp brown sugar
+- [ ] 1/3 cp golden flaxseed
+- [ ] 1/3 cp brown sugar
 - [ ] 1 tbs yeast
 - [ ] 1 3/4 cp warm water
 - [ ] 2 tbs coconut oil
