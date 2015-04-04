@@ -4,19 +4,19 @@ Tons of banana! Keep bananas in the freezer until you are ready to use - defrost
 **Ingredients**
 
 *Liquid Ingredients*
-6 bananas, very ripe (fresh or frozen/defroste)
-1 1/2 cup brown sugar
-3/4 cup coconut oil or butter
-4 very large egs
-2 tbs vanilla
+- [ ] 6 bananas, very ripe (fresh or frozen/defroste)
+- [ ] 1 1/2 cup brown sugar
+- [ ] 3/4 cup coconut oil or butter
+- [ ] 4 very large egs
+- [ ] 2 tbs vanilla
 
 *Dry Ingredients*
-1/2 cup flaxseed
-3 cups brown rice flour
-2 1/2 cups tapioca flour
-1 tbs xanthum gum
-4 tsp baking powder
-1 1/2 tsp salt
+- [ ] 1/2 cup flaxseed
+- [ ] 3 cups brown rice flour
+- [ ] 2 1/2 cups tapioca flour
+- [ ] 1 tbs xanthum gum
+- [ ] 4 tsp baking powder
+- [ ] 1 1/2 tsp salt
 
 *Directions*
 1. Preheat oven to 350 F. Set out 2 loaf pans. 
