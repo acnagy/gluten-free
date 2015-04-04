@@ -18,7 +18,8 @@ Tons of banana! Keep bananas in the freezer until you are ready to use - defrost
 - [ ] 4 tsp baking powder
 - [ ] 1 1/2 tsp salt
 
-*Directions*
+**Directions**
+
 1. Preheat oven to 350 F. Set out 2 loaf pans. 
 2. Add bananas to a very large mixing bowl. Mash until smooth with a hand mixer or stand mixer. 
 3. Add sugar and oil. Mix until well combined.
