@@ -17,6 +17,7 @@ Super fudgy, adapted from adapted via [Lori Lange's Cocoa Brownies](http://www.r
 - [ ] 1 tsp baking powder
 
 **Directions**
+
 1. Preheat oven to 350 F. Prepare one 9 x 13 pan with butter and sugar.
 2. In a medium bowl, whisk together cocoa and sugar.
 3. In a small bowl, whisk together remaining dry ingredients.
