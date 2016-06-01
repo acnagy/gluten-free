@@ -1,5 +1,7 @@
-#Cocoa Brownies#
-Super fudgy, adapted from adapted via [Lori Lange's Cocoa Brownies](http://www.recipegirl.com/2012/09/24/cocoa-brownies/) Makes 2 Dozen. 
+#Cocoa Brownies
+
+<h1>Cocoa Brownies</h1>
+Super fudgy, adapted from adapted via [Lori Lange's Cocoa Brownies](http://www.recipegirl.com/2012/09/24/cocoa-brownies/) Makes 16-25 brownies. 
 
 **Ingredients**
 
@@ -18,7 +20,7 @@ Super fudgy, adapted from adapted via [Lori Lange's Cocoa Brownies](http://www.r
 
 **Directions**
 
-1. Preheat oven to 350 F. Prepare one 9 x 13 pan with butter and sugar.
+1. Preheat oven to 350 F. Prepare one 9 x 9 pan with butter and sugar.
 2. In a medium bowl, whisk together cocoa and sugar.
 
 3. In a small bowl, whisk together remaining dry ingredients.
