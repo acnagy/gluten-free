@@ -1,4 +1,4 @@
-<h1>Clara Gluten Free Every-day Bread </h1>
+#Clara Gluten Free Every-day Bread#
 Great for breadmaker or by hand. Makes 1 loaf.
 
 **Ingredients**
