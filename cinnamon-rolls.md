@@ -1,5 +1,6 @@
 # Cinnamon Rolls
 Makes 16(?)
+
 this is a riff off of [this recipe](http://www.bettycrocker.com/recipes/gluten-free-cinnamon-rolls/0ca833dd-7919-4a14-90e3-f40a9648b414) 
 
 # Ingredients
@@ -16,16 +17,16 @@ this is a riff off of [this recipe](http://www.bettycrocker.com/recipes/gluten-f
  * 1/3 cp dark maple syrup
  * 3/4 cp whole milk
  
- ## Cinnamon Sugar
+## Cinnamon Sugar
   * 1 cp granulated sugar
   * 2 heaping tbs cinnamon
  
- ## Glaze
+## Glaze
   * 1 cp heavy cream
   * 1 1/3 cp powdered sugar
   * 1 tsp dark maple syrup
   
- # Instructions
+# Instructions
  1. Whisk together the dry ingredients for the dough. Cut in butter until thoroughly combined.
  1. Whisk together wet ingredients for the dough. Stir into the dough dry ingredients. Knead until the dough is well-combined and forms a stiff ball.
  1. Roll out the dough to 14"x16". Do one pastry turn, and roll out again.
