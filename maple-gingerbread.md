@@ -25,3 +25,4 @@ Note: this recipe will be best with a very dark maple syrup. Look for one labele
 1. Beat batter until stretchy, scraping down the sides occasionally.
 1. Transfer to two parchement-lined loaf pans.
 1. Bake for 75 min, or until golden brown and reads 205+ F on an instant-read thermometer.
+1. Allow to cool for 10 min before removing from the pan. Serve with warm with glaze or whipped cream (let cool completely for a sturdier slice).
