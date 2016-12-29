@@ -1,7 +1,5 @@
 # Cinnamon Rolls
-Makes 16(?)
-
-this is a riff off of [this recipe](http://www.bettycrocker.com/recipes/gluten-free-cinnamon-rolls/0ca833dd-7919-4a14-90e3-f40a9648b414) 
+Makes 16(?) - this is a riff off of [this recipe](http://www.bettycrocker.com/recipes/gluten-free-cinnamon-rolls/0ca833dd-7919-4a14-90e3-f40a9648b414) + work well being made in advance and chilled before baking
 
 # Ingredients
 ## Dough
@@ -36,6 +34,6 @@ this is a riff off of [this recipe](http://www.bettycrocker.com/recipes/gluten-f
  1. Slice each of the dough halves into even eighths. Grease two 9" pie pans with butter.
  1. Using a thin spatula, transfer the cinnamon rolls to the baking dishes. The cinnamon sugar has a tendency to fall out the side, so transfer carefully and one-at-a-time.
  1. Dust the cinnamon rolls with the remaining cinnamon sugar.
- 1. Combine the glaze ingredients in a clean bowl, whisk until completely mixed.
- 
+ 1. Bake for 30-40 min at 350 F. Allow to cool for ~10 min. 
+ 1. Combine the glaze ingredients in a clean bowl, whisk until completely mixed. Drizzle over the cinnamon rolls and serve. 
  
