@@ -5,7 +5,7 @@ Makes about 1 1/2 quarts
  * 2 cps whipping cream
  * 1 cp whole milk
  * 2/3 cp grandulated sugar
- * 2 tsp salt
+ * 1 tsp salt
  * 2 tsp maple syrup (dark) 
 
 # Instructions
