@@ -5,6 +5,7 @@ Makes 1 1/2 quarts
 * 8.1 oz chocolate, tempered
 * 2 tsp maple syrup (dark) or vanilla
 * 1/2 cp granulated sugar
+* 1 1/2 tsp salt
 * 1/4 cp heavy cream
 * ~1 1/3 cp whole milk
 
