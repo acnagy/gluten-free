@@ -15,7 +15,7 @@ Makes 16 biscuits
 1. Preheat the oven to 350 F
 1. Whisk together dry ingredients
 1. Mix in coconot oil, cut into flours until evenly distributed
-1. Make a well in the flour, add eggs, whisk together, and mix into the rest of the flour. Add water, and stir into the flour until mostly combined
+1. Make a well in the flour, add eggs, whisk the eggs together. Stir the eggs into the rest of the flour. Add water, and stir into the flour until mostly combined
 1. Knead the dough into a loose ball
 1. Divide up dough into biscuits, spread out on a baking sheet
 1. Bake for 45 min, broil until browner (low broiler, around 2-3 min)
