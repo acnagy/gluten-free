@@ -1,10 +1,10 @@
-#Clara Gluten Free Every-day Bread#
-Great for breadmaker or by hand. Makes 1 loaf.
+# Bread
+Makes 1 loaf.
 
 **Ingredients**
 
 *Yeast Starter*
-- [ ] 1/2 cp golden flaxseed
+- [ ] 1/4 cp golden flaxseed
 - [ ] 2 tbs yeast
 - [ ] 1 3/4 cp warm water, 120-130ºF
 - [ ] 2 tbs coconut oil
