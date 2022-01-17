@@ -1,22 +1,30 @@
 # Waffles
+
 makes about 7 [very large waffles](https://www.breville.com/us/en/products/waffle-makers/bwm640.html). Inspired by [ATK's gluten-free waffles recipe](https://www.americastestkitchen.com/recipes/11763-gluten-free-waffles)
 
 **Dry Ingredients**
-24 oz flour - 50/50 tapioca flour and brown rice flour
-2 1/2 tsp xanthum gum
-1 1/2 tsp salt
-1 tsp baking powder
+
+- [ ] 24 oz flour - 50/50 tapioca flour and brown rice flour
+- [ ] 2 1/2 tsp xanthum gum
+- [ ] 1 1/2 tsp salt
+- [ ] 1 tsp baking powder
 
 **Water**
-3 cups of water
-2 small lemon wedges 
+
+- [ ] 3 cups of water
+- [ ] 2 small lemon wedges 
 
 **Eggs**
-6 extra-large, or 7 large eggs
-pinch of salt
+
+- [ ] 6 extra-large, or 7 large eggs
+- [ ] pinch of salt
 
 **Oil**
-6 tbs coconut oil, soft
+
+- [ ] 6 tbs coconut oil, soft
+
+
+**Instructions**
 
 1. Whisk together dry ingredients in a very large mixing bowl
 1. Squeeze the lemon slices into the water
